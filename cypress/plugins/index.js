@@ -41,9 +41,3 @@ module.exports = (on, config) => {
   allureWriter(on, config);
   return getConfigurationByFile(file)
 }
-
-//module.exports = (on, config) => {
-//  // aceita um valor de "configFile" ou usa "development" por padrão
-//  const file = config.env.configFile || 'dev'
-//  return getConfigurationByFile(file)
-//}
