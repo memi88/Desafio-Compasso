@@ -1,0 +1,10 @@
+{
+
+    "env": {
+        "baseUrl": "http://automationpractice.com/",
+        "video": false,
+        "allure": true
+        
+    }
+
+}

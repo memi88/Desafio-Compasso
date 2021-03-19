@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Adicionar Produto ao carrinho",
+    "children" : [ {
+      "name" : "Adicionar Produto ao carrinho via busca",
+      "uid" : "66091907aef8d505",
+      "parentUid" : "4a1310e4254e3d1b88a08f518470c2e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616121004063,
+        "stop" : 1616121015154,
+        "duration" : 11091
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4a1310e4254e3d1b88a08f518470c2e5"
+  } ]
+}
